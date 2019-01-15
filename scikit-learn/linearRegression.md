@@ -8,7 +8,7 @@
 
 ex) wave 데이터 셋
 
-x[0]은 **특성(feature)**, ![y^](image/y^.png)은 **예측 값**, b는 **편향(bias)**, w[0]은 **가중치(weight)** 또는 **계수(coefficient)**라고 부름
+x[0]은 **특성(feature)**, ![y^](image/y^.png)은 **예측 값**, b는 **편향(bias)**, w[0]은 **가중치(weight)** 또는 **계수(coefficient)** 라고 부름
 
 
 
