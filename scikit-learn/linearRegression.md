@@ -4,7 +4,7 @@
 
 단순 선형 회귀를 위한 일반화된 예측함수
 
-![예측함수](image/예측함수.png "Markdown Image" "width:200px;float:right;")
+![예측함수](image/예측함수.png)
 
 ex) wave 데이터 셋
 
